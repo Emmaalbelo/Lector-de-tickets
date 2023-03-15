@@ -1,0 +1,11 @@
+#en esta carpeta agregamos 
+#todos los archivos que queremos que git
+#ignore
+
+Ticket_Scaner.py
+lector_de_prueba.py
+Lector_de_tickets.py
+tickets
+
+#luego de agregar al listado, pasamos a storage a 
+#.gitignore por medio de add
